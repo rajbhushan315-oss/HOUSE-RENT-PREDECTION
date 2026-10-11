@@ -128,15 +128,15 @@ Prerequisites
 ```bash
 git clone https://github.com/rajbhushan315-oss/HOUSE-RENT-PREDECTION.git
 ```
-3. Navigate to the Project Directory
+2. Navigate to the Project Directory
 ```bash
 cd HOUSE-RENT-PREDECTION
 ```
-4. Install Dependencies
+3. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
-5. Launch Jupyter Notebook
+4. Launch Jupyter Notebook
 ```bash
 jupyter notebook notebooks/
 ```
